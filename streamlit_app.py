@@ -1,11 +1,9 @@
-from matplotlib.pyplot import legend
 import pandas as pd
 import streamlit as st
-import hvplot.pandas
 import geoviews as gv
 from pathlib import Path
 import holoviews as hv
-from geoviews import dim, opts
+from geoviews import opts
 
 st.header('Areas of opportunity in Real Estate Based on Projected Population Migration Patterns within the US due to Climate Change')
 
