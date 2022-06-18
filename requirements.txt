@@ -4,4 +4,3 @@ holoviews
 hvplot
 panel
 bokeh==2.4.1
-proj-util
