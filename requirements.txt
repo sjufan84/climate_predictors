@@ -1,5 +1,6 @@
 geos
-proj==8.0.0
+cartopy
+proj
 geoviews
 holoviews
 hvplot
