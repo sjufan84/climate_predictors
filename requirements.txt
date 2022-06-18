@@ -1,5 +1,4 @@
 pyproj
-cartopy
 geoviews
 holoviews
 hvplot
