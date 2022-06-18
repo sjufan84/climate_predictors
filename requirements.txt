@@ -1,6 +1,5 @@
-geos
+pygeos
 cartopy
-proj
 geoviews
 holoviews
 hvplot
