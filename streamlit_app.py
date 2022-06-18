@@ -7,7 +7,6 @@ from pathlib import Path
 import holoviews as hv
 from geoviews import dim, opts
 
-st.
 st.header('Areas of opportunity in Real Estate Based on Projected Population Migration Patterns within the US due to Climate Change')
 
 new_combined_df = pd.read_csv(Path('./Resources/new_combined_df.csv'), index_col = [0])
