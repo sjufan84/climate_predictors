@@ -1,3 +1,5 @@
+geos
+proj
 geoviews
 holoviews
 hvplot
