@@ -1,5 +1,5 @@
 geos
-proj
+proj==8.0.0
 geoviews
 holoviews
 hvplot
