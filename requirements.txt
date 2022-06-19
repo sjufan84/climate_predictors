@@ -1,3 +1,5 @@
+proj==8.0.1
+geos
 cartopy
 geoviews
 holoviews
