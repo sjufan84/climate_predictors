@@ -2,13 +2,12 @@ import pandas as pd
 import streamlit as st
 from pathlib import Path
 import os
-from dotenv import load_dotenv
 from pathlib import Path
 
 
 import plotly.express as px
 
-load_dotenv()
+
 mapbox_access_token = os.getenv('MAPBOX_ACCESS_TOKEN')
 
 
