@@ -1,5 +1,7 @@
+proj==8.0.1
+geos
+cartopy
 geoviews
 holoviews
 hvplot
-panel
 bokeh==2.4.1
